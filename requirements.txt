@@ -11,4 +11,5 @@ langchain-community
 faiss-cpu
 langchain-classic
 rank-bm25
+unstructured[pdf]
 
