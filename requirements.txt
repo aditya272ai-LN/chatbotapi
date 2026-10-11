@@ -4,4 +4,14 @@ langchain-openai
 fastapi
 pydantic
 uvicorn
+pymupdf
+langgraph
+langchain
+langchain-community
+langchain-classic
+langchain-text-splitters
+faiss-cpu
+rank-bm25
+sqlalchemy
+pypdf
 
