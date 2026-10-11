@@ -5,7 +5,6 @@ fastapi
 pydantic
 uvicorn
 pymupdf
-Lang graph
 langchain
 langchain-community
 langchain-classic
